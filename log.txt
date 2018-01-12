@@ -1,0 +1,29 @@
+commit 91e059aa9afb71c6a94f9335ae863e823388a498
+Author: S.Santi Macbook <s.santichaivekin@gmail.com>
+Date:   Thu Jan 11 21:28:29 2018 -0800
+
+    ignore ignore
+
+commit 86720d10bca6044e6d44067fa5d960472cd7e087
+Author: S.Santi Macbook <s.santichaivekin@gmail.com>
+Date:   Thu Jan 11 21:00:50 2018 -0800
+
+    added gitignore
+
+commit 30d33d6abe5dbb636bd490d1457d2217943c534c
+Author: S.Santi Macbook <s.santichaivekin@gmail.com>
+Date:   Thu Jan 11 17:37:12 2018 -0800
+
+    this is a new commit
+
+commit a95651305bb95f5c865248f28f0dc75cb401d843
+Author: S.Santi Macbook <s.santichaivekin@gmail.com>
+Date:   Thu Jan 11 17:33:10 2018 -0800
+
+    add changes to a newfile.
+
+commit 0b6d67096674f77ce07837f124c40915e806ba74
+Author: S.Santi Macbook <s.santichaivekin@gmail.com>
+Date:   Thu Jan 11 17:32:17 2018 -0800
+
+    create a new repo and a new file
