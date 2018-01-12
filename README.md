@@ -1,28 +1,20 @@
-# This is a large heading
+# Santi Santichaivekin
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+A student at Harvey Mudd College, California. Comes from Bangkok, Thailand.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My favorite books are :
+- *The Prophet* by Kalil Gibran
+- *Why Zebras Don't have Ulcers* by Robert M. Sapolsky
+- *The Society of Mind* by Marvin Minsky
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Welp, I'm lactose intolerant and allergic to spice. Anything that does not have those two are all good.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+You can contact me [on Facebook](https://www.facebook.com/joe33565)
